@@ -99,7 +99,7 @@ Bonus example:
 |------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------|
 | `player movement`              | tile by tile            | smoothly between tiles                                                                                   |
 | `player rotation `             | only one way            | turns whenever you change direction                                                                      |
-| `move collect counters` | printed to the terminal | displayed in-game with custom font                                                                              |
+| `move & collect counters` | printed to the terminal | displayed in-game with custom font                                                                            |
 | `enemies`                      | none                    | walk straight until they hit a wall, then choose a new direction randomly, if you walk into them you die |
 | `animations`                   | none                    | win and death animations that are 3x3 tiles big                                                          |
 | `sprint`                       | no                      | yes                                                                                                      |
