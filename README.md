@@ -28,7 +28,7 @@ In the shadowed cloak of night, the ominous Nazgûl, cloaked in darkness and dre
 
 Help Strider gather all the shards of Narsil and bring them back to Rivendell, where they shall be reforged! Don't let the Ringwraiths catch you!
 
-![play demo](https://imgur.com/NaHbzbb.gif)
+![play demo](https://imgur.com/NaHbzbb)
 
 ## 🛠 Usage
 
