@@ -64,7 +64,8 @@ make bonus
     - `C` for a collectible
     - `E` for a map exit
     - `P` for the player’s starting position
-Bonus difference:
+
+  Bonus difference:
     - `E` for an enemy
     - `X` for a map exit
 * The map must contain 1 exit, at least 1 collectible, and 1 starting position to be valid.
