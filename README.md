@@ -59,14 +59,14 @@ make bonus
 
 * The map has to be constructed with 3 components: walls, collectibles, and free space.
 * The map can be composed of only these 5 characters:
-	- `0` for an empty space
-	- `1` for a wall
-	- `C` for a collectible
-	- `E` for a map exit
-	- `P` for the player’s starting position
+    - `0` for an empty space
+    - `1` for a wall
+    - `C` for a collectible
+    - `E` for a map exit
+    - `P` for the player’s starting position
 Bonus difference:
-	- `E` for an enemy
-	- `X` for a map exit
+    - `E` for an enemy
+    - `X` for a map exit
 * The map must contain 1 exit, at least 1 collectible, and 1 starting position to be valid.
 * The map must be rectangular.
 * The map must be closed/surrounded by walls.
