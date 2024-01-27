@@ -34,7 +34,7 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 
 ### Requirements
 
-The game is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run. [MLX42](https://github.com/codam-coding-college/MLX42) is used as the graphics engine, since it is easier to work with than MiniLibX. Since MLX is optimized to the OSs this game can only be played on macOS.
+The game is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run. [MLX42](https://github.com/codam-coding-college/MLX42) is used as the graphics engine, since it is easier to work with than MiniLibX. Since MLX is optimized for the OS, this game can only be played on macOS.
 
 ### Instructions
 
