@@ -28,7 +28,7 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 
 > Help Strider gather all the shards of Narsil and bring them back to Rivendell, where they shall be reforged! Don't let the Ringwraiths catch you!
 
-[![Play Demo](https://github.com/aaron-22766/bin/blob/main/gifs/Play%20Demo%20Orig.gif)](https://www.youtube.com/watch?v=gWYI-ZKPhq4)
+[![Play Demo](https://github.com/aaron-22766/aaron-22766/blob/main/bin/gifs/Play%20Demo%20Orig.gif)](https://www.youtube.com/watch?v=gWYI-ZKPhq4)
 
 ## 🛠 Usage
 
